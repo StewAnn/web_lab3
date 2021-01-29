@@ -10,7 +10,8 @@
 
 POST:
 
-![McHF0_0wNH0](https://user-images.githubusercontent.com/57351745/106272446-2307a800-6242-11eb-9781-f3817c7db015.jpg)
+
+![eapoMUPj6kg](https://user-images.githubusercontent.com/57351745/106272462-2733c580-6242-11eb-9f65-1f447215c2e5.jpg)
 
 
 PUT:
@@ -20,7 +21,7 @@ PUT:
 
 PATCH:
 
-![eapoMUPj6kg](https://user-images.githubusercontent.com/57351745/106272462-2733c580-6242-11eb-9f65-1f447215c2e5.jpg)
+![McHF0_0wNH0](https://user-images.githubusercontent.com/57351745/106272446-2307a800-6242-11eb-9781-f3817c7db015.jpg)
 
 GET:
 
