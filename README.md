@@ -1,5 +1,6 @@
 # web_lab3
 npm install
+
 npm start
 
 
